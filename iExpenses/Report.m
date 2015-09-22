@@ -16,5 +16,6 @@
 @dynamic itemsPurchased;
 @dynamic amountPaid;
 @dynamic isCreditCard;
+@dynamic identifier;
 
 @end
